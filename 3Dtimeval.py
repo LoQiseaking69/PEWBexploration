@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Empirical Validation Suite for Anisotropic Warp Fields with 3D Time Structure
-Author: Validation Framework v2.0
 Date: 2026-02-17
 
 This script provides rigorous empirical validation of theoretical claims
